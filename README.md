@@ -2,14 +2,14 @@
 
 🎓 Undergraduate Student at **BRAC University**  
 💡 Passionate about learning, coding, and exploring new technologies  
-🌱 Currently improving my skills in **[your focus area, e.g., Python, Web Development, AI]**  
+🌱 Currently improving my skills in **Python**  
 ⚡ Love to work on projects that combine creativity and logic  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- Programming: C | C++ | Python | Java  
-- Web: HTML | CSS | JavaScript  
+- Programming: Python 
+- Web: HTML | CSS  
 - Tools: Git | GitHub | VS Code  
 
 ---
@@ -20,8 +20,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- 📧 Email: [your email here]  
-- 💼 LinkedIn: [your LinkedIn link]  
+- 📧 Email: sahela.khan.2109@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/sahela-khan-retu-996273351/  
 
 ---
 ✨ *“Code. Learn. Grow.”*  
